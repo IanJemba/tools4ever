@@ -13,7 +13,4 @@ if(mysqli_connect_error())
 {
  echo "Connection establishing failed!";
 }
-else
-{
- echo "Connection established successfully.";
-}
+

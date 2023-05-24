@@ -1,0 +1,12 @@
+*{
+    background-color: bisque;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+label{
+    width: 148px;
+    display: inline-block;
+
+}
+.formgroep{
+    margin: 10px , 0px;
+}
